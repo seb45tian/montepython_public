@@ -23,3 +23,4 @@ root = '/Path/to/your/codes'
 
 path['cosmo']		= root+'/class'
 path['clik']            = root+'/planck/code/plc_3.0/plc-3.01/'
+path['baseline_plc'] = "/path/to/baseline/plc_3.0/"
